@@ -2,3 +2,4 @@ tensorflow
 Flask
 numpy
 Pillow
+requests
